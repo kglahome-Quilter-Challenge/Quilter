@@ -1,1 +1,4 @@
 quilter pdfs - advisor support material/**
+chroma_db/
+*.sqlite3
+*.bin
